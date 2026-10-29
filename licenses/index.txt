@@ -1,0 +1,13 @@
+AudioUnitSDK-Apache-2.txt
+FLAC-BSD.txt
+HarfBuzz-MIT.txt
+JPEG-README.txt
+JUCE-LICENSE.md
+Ogg-Vorbis-BSD.txt
+SheenBidi-Apache-2.txt
+VST3-SDK-MIT.txt
+VST3-base-MIT.txt
+VST3-interfaces-MIT.txt
+VST3-public-sdk-MIT.txt
+libpng-LICENSE.txt
+zlib-LICENSE.txt
