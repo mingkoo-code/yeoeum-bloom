@@ -11,3 +11,5 @@ VST3-interfaces-MIT.txt
 VST3-public-sdk-MIT.txt
 libpng-LICENSE.txt
 zlib-LICENSE.txt
+
+libsodium-ISC.txt — libsodium 1.0.22 (ISC)

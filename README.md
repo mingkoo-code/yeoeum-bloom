@@ -3,7 +3,9 @@
 여음 블룸 소개 및 다운로드 홈페이지입니다.
 
 - 홈페이지: https://mingkoo-code.github.io/yeoeum-bloom/
-- macOS 배포파일: GitHub Releases의 v1.0.0
+- macOS / Windows 배포파일: GitHub Releases의 v1.0.1
+- macOS: Apple Silicon AU/VST3, Developer ID 서명·Apple 공증
+- Windows: x64 VST3, 코드 서명 없음
 - 여음 모바일 앱: https://mingkoo-code.github.io/yeoeum-site/
 - 문의: yeoeum@anotier.art
 
